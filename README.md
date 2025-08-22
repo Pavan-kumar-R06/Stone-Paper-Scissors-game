@@ -3,7 +3,7 @@ A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScr
 
 # 🚀 Features
  ###### 🖱️ Simple and easy-to-play interface
- 🤖 Play against the computer
+ 🤖 Play against the computer  <br>
  🎨 Styled with clean CSS
  📱 Responsive design (works on desktop & mobile)
  ⚡ Fast, lightweight, and no external libraries
