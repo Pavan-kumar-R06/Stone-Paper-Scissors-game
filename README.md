@@ -8,4 +8,5 @@ A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScr
  📱 Responsive design (works on desktop & mobile)  <br>
  ⚡ Fast, lightweight, and no external libraries  <br>
 # 🖼️ Demo
- 👉 [Play the game live here:](https://github.com/Pavan-kumar-R06/Stone-Paper-Scissors-game) 
+ 👉 Play the game live here:
+ [live demo](https://pavan-kumar-r06.github.io/Stone-Paper-Scissors-game/)
